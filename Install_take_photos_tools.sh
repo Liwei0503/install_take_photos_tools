@@ -7,6 +7,10 @@ sudo apt-get install imagemagick
 # fswebcam -d /dev/video0 -r 1920x1080 -S 30 -F 5 image10.jpg
 # example 2.:
 # fswebcam -d /dev/video0 --no-banner -r 640x480 -S 29 image11.jpg
+#
+#
+# https://atceiling.blogspot.com/2014/04/raspberry-pi-webcam.html
+# http://epaper.gotop.com.tw/PDFSample/AEH002200.pdf
 #-----------------------------------------------------------------------
 
 sudo apt-get update
