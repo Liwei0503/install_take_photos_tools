@@ -42,5 +42,9 @@ sudo apt-get install uv4l-mjpegstream
 #  RASPBERRY PI 3CSI介面攝影機的UV4L驅動安裝
 #  https://kenneth.tw/new/?p=558
 #
+# -------------------------------------------------------------------------------
+# https://raspberry-valley.azurewebsites.net/UV4L/
 #
+#
+
 
