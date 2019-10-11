@@ -29,3 +29,8 @@ sudo apt-get install uv4l-uvc
 sudo apt-get install uv4l-xscreen
 sudo apt-get install uv4l-mjpegstream
 
+# ------------------------------------------
+# [Raspberry Pi]自製縮時攝影機
+# https://blog.cavedu.com/2017/09/13/raspberry-pi%e8%87%aa%e8%a3%bd%e7%b8%ae%e6%99%82%e6%94%9d%e5%bd%b1%e6%a9%9f/
+#
+#
