@@ -38,4 +38,9 @@ sudo apt-get install uv4l-mjpegstream
 #  樹莓派 Raspberry Pi 設定無線網路 WiFi AP，打造無線 IP 分享器
 #  https://blog.gtwang.org/iot/setup-raspberry-pi-as-wireless-access-point/
 #
+# -------------------------------------------------------------------------------
+#  RASPBERRY PI 3CSI介面攝影機的UV4L驅動安裝
+#  https://kenneth.tw/new/?p=558
 #
+#
+
