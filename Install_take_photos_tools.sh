@@ -34,3 +34,8 @@ sudo apt-get install uv4l-mjpegstream
 # https://blog.cavedu.com/2017/09/13/raspberry-pi%e8%87%aa%e8%a3%bd%e7%b8%ae%e6%99%82%e6%94%9d%e5%bd%b1%e6%a9%9f/
 #
 #
+# -------------------------------------------
+#  樹莓派 Raspberry Pi 設定無線網路 WiFi AP，打造無線 IP 分享器
+#  https://blog.gtwang.org/iot/setup-raspberry-pi-as-wireless-access-point/
+#
+#
